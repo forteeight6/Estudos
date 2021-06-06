@@ -1,8 +1,9 @@
 -------------------------------------------------------
 Um método possui 1 ou mais técnicas.
 Uma técnica pode ser usada de mais de uma forma.
+E cada forma pode ser nomeada como um método.
 
-PESQUISE e ANALISE: Métodos e Técnicas de Estudos.
+PESQUISE e ANALISE: Métodos e Técnicas de Estudos(ou de outras coisas).
 -------------------------------------------------------
 *MÉTODOS*
 1º ATER
@@ -12,6 +13,10 @@ PESQUISE e ANALISE: Métodos e Técnicas de Estudos.
 5º Anki
 6º Mineração Intensiva
 7º Escuta + Repetição
+8º Game of Stop
+9º Price Action
+10º 5S e 6S
+11º Eliminação de Alternativas
 
 *TÉCNICAS*
 1º Brainstorn
@@ -30,3 +35,9 @@ PESQUISE e ANALISE: Métodos e Técnicas de Estudos.
 14º Meditação
 15º Escuta
 16º Feynman
+17º Contagem(Programação)
+18º Gamificação
+19º Flag(Programação)
+20º Random(Programação)
+21º Verificação(Programação)
+22º Valor para Chave em Array(Programação)
