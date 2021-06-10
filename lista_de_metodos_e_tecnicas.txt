@@ -1,6 +1,59 @@
 -------------------------------------------------------
 Um método possui 1 ou mais técnicas.
+Uma técnica pode ser usada de mais de uma form-------------------------------------------------------
+Um método possui 1 ou mais técnicas.
 Uma técnica pode ser usada de mais de uma forma.
+E cada forma pode ser nomeada como um método.
+
+PESQUISE e ANALISE: Métodos e Técnicas de Estudos(ou de outras coisas).
+-------------------------------------------------------
+*MÉTODOS*
+1º ATER
+2º Atividade + Escuta
+3º Leitura + Escuta
+4º Meditação + Visualização
+5º Anki
+6º Mineração Intensiva
+7º Escuta + Repetição
+8º Game of Stop
+9º Price Action
+10º 5S e 6S
+11º Eliminação de Alternativas
+12º PEADC
+13º Desenvolvimento TopDown
+14º Desenvolvimento DownTop
+
+*TÉCNICAS*
+1º Brainstorn
+2º Flashcards
+3º Pomodoro
+4º Mapa Mental
+5º Fluxograma
+6º ISP
+7º Leitura em Savoring
+8º Leitura em Scanning
+9º Leitura em Skimming
+10º Leitura
+11º Observação/Visualização
+12° Anotação/Resumo
+13º Repetição
+14º Meditação
+15º Escuta
+16º Feynman
+17º Contagem(Programação)
+18º Gamificação
+19º Flag(Programação)
+20º Random(Programação)
+21º Verificação(Programação)
+22º Valor para Chave em Array(Programação)
+23º Planejamento
+24º Experiência
+25º Agendamento
+26º Diario
+27º Cronograma
+28º Pesquisa Simples
+29º Pesquisa Avançada
+a.
 E cada forma pode ser nomeada como um método.
 
 PESQUISE e ANALISE: Métodos e Técnicas de Estudos(ou de outras coisas).
