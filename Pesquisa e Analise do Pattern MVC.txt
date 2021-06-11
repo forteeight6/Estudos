@@ -1,0 +1,32 @@
+https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc
+
+MODEL
+VIEW
+CONTROLLER
+
+O VIEW é a camada onde o usuario faz a interação(recebe os dados pelo usuario).
+O CONTROLADOR pega essas informações e envia para o MODEL.
+O MODEL fica responsavel por avaliar os dados e transmitir uma resposta.
+O CONTROLADOR pega essas respostas e envia uma notificação de validação para a camada VIEW.
+O VIEW apresenta essa notificação de maneira gráfica e visual.
+
+TODO ESSE PROCESSO LEVA EM CONSIDERAÇÃO AS REGRAS DE NEGÓCIO APLICADAS NA CONSTRUÇÃO DE TODO PROJETO.
+
+ENTÃO ANTES DE CRIAR UM SISTEMA, FAÇA UMA DOCUMENTAÇÃO CONTENDO AS REGRAS DE NEGOCIOS.
+
+LEMBRANDO QUE ESSA DOCUMENTAÇÃO PODE HAVER ATUALIZAÇÃO E ESTAR ABERTO A OUTRAS POSSIBILIDADES.
+
+-------------------
+*POR QUE USAR O MVC?
+-------------------
+Segurança, o controller funciona como uma espécie de filtro capaz de impedir que qualquer dado incorreto chegue até a camada MODEL;
+
+Organização, esse método permite que um novo desenvolvedor tenha muito mais facilidade em entender o que foi construido,  assim como os erros se tornam mais fácil de serem encontrados e corrigidos;
+
+Eficiência, como a arquitetura de software é dividido em 3 componentes, sua aplicação fica muito mais leve, permitindo que vários desenvolvedores trabalhem no projeto de forma independente;
+
+Tempo, com a dinâmica facilitada pela colaboração entre os profissionais de desenvolvimento, o projeto pode ser concluído com muita rapidez, tornando o projeto escalável;
+
+Transformação, as mudanças que forem necessárias também são mais fluidas, já que não será essencial trabalhar nas regras de negócios e correção de bugs;
+
+Além disso, um software precisa ter estabilidade no processo de comunicação entre seus elementos de maneira dinâmica para que a experiência do usuário não seja prejudicada.
